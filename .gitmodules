@@ -1,0 +1,3 @@
+[submodule "libraries\\ADI"]
+	path = libraries\\ADI
+	url = https://github.com/analogdevicesinc/no-OS
